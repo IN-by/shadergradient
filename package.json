@@ -1,0 +1,15 @@
+{
+  "name": "my-gradient",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build" },
+  "dependencies": {
+    "@shadergradient/react": "latest",
+    "@react-three/fiber": "latest",
+    "three": "latest",
+    "three-stdlib": "latest",
+    "camera-controls": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": { "@vitejs/plugin-react": "latest", "vite": "latest" }
+}
